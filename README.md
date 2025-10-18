@@ -42,15 +42,14 @@ youtube-clone-html-css/
 ├── channel1.jpg
 └── ...
 
-yaml
-Copy code
+
 
 ---
 
-## 🖼️Preview
+## Preview
 
+<img width="984" height="568" alt="Screenshot 2025-10-17 at 11 45 10 PM" src="https://github.com/user-attachments/assets/be17fb91-d9b8-4739-b7c8-d6db60ce7fe9" />
 
-<img width="1497" height="786" alt="Screenshot 2025-10-17 at 11 43 30 PM" src="https://github.com/user-attachments/assets/3dedcc14-838c-4b06-a457-9ce268791246" />
 
 ---
 
