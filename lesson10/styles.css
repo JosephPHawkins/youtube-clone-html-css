@@ -1,0 +1,68 @@
+.friend-section {
+    width: 200px;
+    
+    box-shadow: 3px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.friend-pfp {
+    width: 200px;
+}
+
+.friend-pfp-img {
+    width: 100%;
+}
+
+.pfp-section {
+    display: inline-block;
+    width: 60px;
+}
+
+.pfp-img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.number-friends, .pfp-section  {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.pfp-section {
+    margin-right: 5px;
+}
+
+p {
+    margin: 0;
+}
+
+
+
+.friend-name {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.button-design {
+    margin-top: 10px;
+    color: white;
+    padding: 6px 17px;
+    background-color: rgb(19, 142, 209);
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.button-section {
+    display: inline-block;
+    vertical-align:middle;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.friend-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 15px;
+}

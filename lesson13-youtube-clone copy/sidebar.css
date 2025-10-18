@@ -1,0 +1,50 @@
+.sidebar {
+
+    
+    position: fixed;
+
+    top: 49px;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+
+    background-color: white;
+ 
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-evenly;
+    align-items: center;
+
+    padding-left: 10px;
+
+    z-index: 2000;
+
+    
+    
+}
+
+.side-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.side-link img {
+    height: 24px;
+}
+
+
+.side-link div {
+    font-size: 10px;
+}
+
+
+body {
+    padding-left: 50px;
+}
+
+

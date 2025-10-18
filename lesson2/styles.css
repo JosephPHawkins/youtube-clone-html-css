@@ -1,0 +1,139 @@
+.uber {
+        background-color: black;
+        color: white;
+        padding: 30px 70px;
+        font-size: 50px;
+        font-weight: bold;
+        border: none;
+        cursor: pointer;
+      }
+
+      .amazon {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        padding: 20px 100px;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        cursor: pointer;
+        border-radius: 100px;
+      }
+
+      .github {
+        background-color: rgb(46, 164, 79);
+        border-radius: 20px;
+        padding: 20px 100px;
+        color: whitesmoke;
+        font-size: 50px;
+        padding-bottom: 15px;
+      }
+
+      .bootstrap {
+        background-color: rgb(121, 82, 179);
+        color: white;
+        padding: 20px 70px;
+        font-size: 35px;
+        border-radius: 10px;
+        font-weight: bold;
+      }
+
+      .bootstrap-download {
+        color: rgb(108, 117, 125);
+        background-color: white;
+        border-radius: 10px;
+        border: 1px solid rgb(108, 117, 125);
+        padding: 20px 60px;
+        font-weight: bold;
+        font-size: 30px;
+        margin-left: 20px;
+      }
+
+      .linkedin {
+        background-color: rgb(10, 102, 194);
+        color: white;
+        padding: 20px 50px;
+        border-radius: 50px;
+        font-size: 30px;
+      }
+
+      .linkedin-save {
+        background-color: white;
+        color: rgb(10, 102, 194);
+        border: solid 1px rgb(10, 102, 194);
+        padding: 30px 60px;
+        border-radius: 50px;
+        font-size: 35px;
+      }
+
+      .spacing {
+        margin-bottom: 100px;
+      }
+
+      #amazon-link {
+        font-size: 30px;
+      }
+
+      #shoes {
+        color: black;
+        font-weight: bold;
+        font-size: 50px;
+        margin: 50px 0 0 0;
+      }
+
+      #price {
+        color: rgb(0, 118, 0);
+        font-size: 30px;
+
+      }
+
+      #orange-bg {
+        background-color: rgb(255, 164, 28);
+      }
+
+      .uber:hover{
+        opacity: 0.7;
+      }
+
+      .amazon:hover {
+        background-color: rgb(234, 197, 13);
+      }
+
+      .github:hover{
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+      } 
+
+      .bootstrap:hover {
+        background-color: rgb(108, 70, 163);
+      }
+
+      .bootstrap-download:hover {
+        background-color: rgb(108, 117, 125);
+        color: white;
+        
+      }
+
+      button{
+        cursor: pointer;
+      }
+
+      .linkedin:hover{
+        background-color: rgb(9, 93, 177);
+      }
+
+      .linkedin-save:hover {
+        background-color: rgba(91, 149, 208, 0.647);
+      }
+
+      #amazon-link:hover{
+        color: orange 
+        
+      }
+
+      .amazon:active{
+        background-color: rgba(255, 216, 20, 0.669);
+      }
+
+      #orange-bg:active{
+        background-color: rgba(255, 166, 0, 0.756) ;
+      }
+

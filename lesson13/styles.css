@@ -1,0 +1,86 @@
+p {
+    margin: 0;
+}
+
+.flexbox-two-elements {
+    display: flex;
+    height: 100px;
+}
+
+.flex-item1 {
+    display: flex;
+    background-color: lightpink;
+    align-items: center;
+    width: 100px;
+    justify-content: center;
+}
+
+.flex-item2 {
+    background-color: lightblue;
+    width: 200px;
+}
+
+
+
+.item1 {
+    background-color: black;
+    color: white;
+    
+}
+
+.row-two-section {
+    margin-top: 20px;
+}
+
+.row1 {
+    display: flex;
+    text-align: start;
+    
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.item-row2{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.message {
+    display: flex;
+    flex-direction: row;
+    background-color: lightblue;
+    width: 325px;
+}
+
+.pfp-img {
+    width: 50px;
+    
+}
+
+.img {
+    height: 50px;
+    border-radius: 25px;
+}
+
+
+.title-time {
+    display: flex;
+
+}
+
+.title {
+    width: 100px;
+    background-color: lightpink;
+}
+
+.time {
+    width: 50px;
+    background-color: lightblue;
+}

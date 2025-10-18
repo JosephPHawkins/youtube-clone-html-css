@@ -1,0 +1,54 @@
+.two-columns {
+    display: grid;
+
+    grid-template-columns: 200px 75px;
+    
+
+
+}
+
+.two-200px {
+    background-color: lightblue;
+    
+}
+
+.two-75px {
+    background-color: lightpink;
+    
+}
+
+
+
+.three-columns {
+
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+    margin-top: 10px;
+    
+}
+
+.three-item1 {
+    background-color: lightblue;
+}
+
+.three-item2 {
+    background-color: lightpink;
+}
+
+.three-item3 {
+    background-color: lightblue;
+}
+
+
+.two-by-four {
+
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+
+.col1, .col2, .col3, .col4 {
+    background-color: lightpink;
+}

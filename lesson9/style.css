@@ -1,0 +1,47 @@
+.red-square {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+}
+
+.green-circle {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.wrapped-border {
+    border: solid gray 1px;
+    display: inline-block;
+    padding: 10px 70px 5px 5px;
+    
+}
+
+#p-border-less {
+    margin-top: 0;
+}
+
+.youtube-music-install {
+    background-color: black;
+    display: inline-block;
+    padding: 20px 20px;
+
+}
+
+#install-title{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+#install-desc {
+    color: gray;
+
+    
+
+}
