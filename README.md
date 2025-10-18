@@ -5,14 +5,14 @@ This project replicates the layout and design of the YouTube home interface to p
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates how to build a modern website layout using only **HTML and CSS**, focusing on the YouTube homepage.  
 It includes a header, sidebar, and a responsive grid of video previews.
 
 ---
 
-## 🧩 Features
+## Features
 
 - Responsive **header**, **sidebar**, and **video grid**
 - Hover **tooltips** for interactive icons
@@ -32,10 +32,9 @@ youtube-clone-completion/
 ├── sidebar.css
 └── styles.css
 
-markdown
-Copy code
 
-### 📂 Description
+
+###  Description
 - **icons/** — Contains icon image files used in the UI.  
 - **thumbnail/** — Holds video thumbnail images.  
 - **header.css** — Styles for the top navigation bar (header).  
