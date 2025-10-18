@@ -22,27 +22,26 @@ It includes a header, sidebar, and a responsive grid of video previews.
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
-youtube-clone-html-css/
-│
-├── index.html
+youtube-clone-completion/
+├── icons/
+├── thumbnail/
 ├── header.css
+├── index.html
 ├── sidebar.css
-├── styles.css
-│
-├── /icons
-│ ├── youtube-logo.svg
-│ ├── upload.svg
-│ ├── voice-search-icon.svg
-│ └── ...
-│
-└── /thumbnail
-├── video1.avif
-├── channel1.jpg
-└── ...
+└── styles.css
 
+markdown
+Copy code
 
+### 📂 Description
+- **icons/** — Contains icon image files used in the UI.  
+- **thumbnail/** — Holds video thumbnail images.  
+- **header.css** — Styles for the top navigation bar (header).  
+- **sidebar.css** — Styles for the sidebar navigation.  
+- **styles.css** — Main stylesheet combining general page styles.  
+- **index.html** — The main HTML structure of the YouTube clone.
 
 ---
 
